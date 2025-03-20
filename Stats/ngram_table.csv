@@ -1,0 +1,70 @@
+"Accessibility
+Perspective",Log Number,Log Name,Log,Indicator Number,"Accessibility
+Indicator",Query n-gram length,,,,
+,,,,,,1-gram,2-gram,3-gram,4-gram,$>$4 -gram
+Structure,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{} *,1,ParaLen $\downrarrow$,15.02,17.7,17.69,18.06,16.89
+Structure,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{} *,1,ParaLen $\downrarrow$,19.01,27.42,31.86,26.66,31.11
+Structure,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{} *,1,ParaLen $\downrarrow$,21.52,23.37,24.55,24,23.84
+Structure,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{} *,1,ParaLen $\downrarrow$,13.97,26.6,25.88,62.76,27.58
+Structure,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{},1,ParaLen $\downrarrow$,13.01,10.91,13.77,10.23,16.12
+Structure,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{} *,1,ParaLen $\downrarrow$,49.33,48.77,61.67,48.56,59.19
+Structure,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{} *,2,SC $\downarrow$,3.65,4.24,4.22,4.36,5.09
+Structure,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{},2,SC $\downarrow$,122.54,115.05,112.29,113.35,149.73
+Structure,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{} *,2,SC $\downarrow$,3.89,4.35,4.88,5.05,5.41
+Structure,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{} *,2,SC $\downarrow$,117.24,142.98,137.53,149.44,121.66
+Structure,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{},2,SC $\downarrow$,34.24,36.72,40.87,33.38,40.38
+Structure,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{} *,2,SC $\downarrow$,3.09,3.36,5.37,8.12,4.25
+Structure,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{} *,3,SentLen $\downarrow$,9.1,9.24,9.21,9.37,7.46
+Structure,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{} *,3,SentLen $\downarrow$,4.25,5.28,5.62,5.17,4.73
+Structure,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{},3,SentLen $\downarrow$,12.13,12.28,11.98,12.64,11.74
+Structure,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{} *,3,SentLen $\downarrow$,3.24,4.79,5.41,5.19,5.11
+Structure,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{} *,3,SentLen $\downarrow$,5.51,5.95,7.43,6.54,6.22
+Structure,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{},3,SentLen $\downarrow$,15.78,16.84,18.3,17.47,20.16
+Structure,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{} *,4,HeadingSents $\uparrow$,0.32,0.27,0.27,0.27,0.22
+Structure,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{} *,4,HeadingSents $\uparrow$,0.08,0.06,0.06,0.05,0.05
+Structure,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{} *,4,HeadingSents $\uparrow$,0.28,0.26,0.23,0.23,0.22
+Structure,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{} *,4,HeadingSents $\uparrow$,0.04,0.06,0.06,0.05,0.05
+Structure,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{} *,4,HeadingSents $\uparrow$,0.09,0.08,0.1,0.12,0.17
+Structure,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{},4,HeadingSents $\uparrow$,0,0,0,0,0
+Structure,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{},5,ListSents $\uparrow$,0,0.01,0.01,0.01,0.01
+Structure,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{},5,ListSents $\uparrow$,0.37,0.31,0.34,0.36,0.31
+Structure,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{} *,5,ListSents $\uparrow$,0.01,0.01,0.02,0.03,0.04
+Structure,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{} *,5,ListSents $\uparrow$,0.46,0.35,0.36,0.44,0.34
+Structure,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{} *,5,ListSents $\uparrow$,0.33,0.47,0.4,0.42,0.31
+Structure,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{} *,5,ListSents $\uparrow$,0,0.02,0.02,0.09,0
+Structure,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{} *,6,ParaSents $\downarrow$,0.68,0.73,0.72,0.72,0.77
+Structure,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{} *,6,ParaSents $\downarrow$,0.55,0.63,0.6,0.59,0.64
+Structure,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{} *,6,ParaSents $\downarrow$,0.71,0.72,0.75,0.73,0.75
+Structure,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{} *,6,ParaSents $\downarrow$,0.49,0.58,0.58,0.51,0.61
+Structure,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{} *,6,ParaSents $\downarrow$,0.58,0.45,0.51,0.41,0.54
+Structure,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{} *,6,ParaSents $\downarrow$,1,0.98,0.98,0.91,1
+Readability,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{} *,7,FRES $\uparrow$,54.16,66.19,62.18,68.35,59.88
+Readability,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{} *,7,FRES $\uparrow$,57.02,60.82,58.54,63.44,48.94
+Readability,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{},7,FRES $\uparrow$,56.39,59.62,55.75,60.14,55.5
+Readability,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{},7,FRES $\uparrow$,59.66,60.49,56.64,59.6,57.89
+Readability,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{} *,7,FRES $\uparrow$,49.07,42.06,36.97,38.02,26.21
+Readability,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{} *,7,FRES $\uparrow$,53.76,50.79,37.41,41.64,39.44
+Readability,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{} *,8,CLI $\downarrow$,12.4,9.65,10.58,9.7,11.39
+Readability,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{},8,CLI $\downarrow$,12.43,11.42,11.82,11.45,12.62
+Readability,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{},8,CLI $\downarrow$,11.59,11.41,12.08,11.93,12.86
+Readability,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{} *,8,CLI $\downarrow$,11.6,11.21,12.46,12.05,12.89
+Readability,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{} *,8,CLI $\downarrow$,11.58,13.74,15.83,14.37,18.25
+Readability,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{} *,8,CLI $\downarrow$,10.24,10.72,15.21,13.74,14.22
+Concreteness,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{},9,Conc $\uparrow$,2.4,2.42,2.39,2.43,2.44
+Concreteness,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{},9,Conc $\uparrow$,2.45,2.44,2.4,2.44,2.48
+Concreteness,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{},9,Conc $\uparrow$,2.34,2.34,2.37,2.4,2.39
+Concreteness,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{},9,Conc $\uparrow$,2.42,2.41,2.43,2.42,2.33
+Concreteness,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{},9,Conc $\uparrow$,2.28,2.35,2.43,2.23,2.39
+Concreteness,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{},9,Conc $\uparrow$,2.46,2.37,2.33,2.4,2.32
+Concreteness,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{} *,10,ConcreteWords $\uparrow$,0.04,0.05,0.04,0.05,0.03
+Concreteness,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{} *,10,ConcreteWords $\uparrow$,0.03,0.04,0.04,0.04,0.03
+Concreteness,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{},10,ConcreteWords $\uparrow$,0.05,0.04,0.04,0.04,0.04
+Concreteness,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{} *,10,ConcreteWords $\uparrow$,0.03,0.04,0.04,0.04,0.03
+Concreteness,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{},10,ConcreteWords $\uparrow$,0.07,0.04,0.05,0.04,0.04
+Concreteness,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{} *,10,ConcreteWords $\uparrow$,0.08,0.06,0.04,0.04,0.05
+Concreteness,1,\OQ{}-\Google{}-\SERP{},\OQ{}-\Google{}-\SERP{} *,11,AbstractWords $\downarrow$,0.41,0.44,0.46,0.38,0.35
+Concreteness,2,\OQ{}-\Google{}-\RR{},\OQ{}-\Google{}-\RR{} *,11,AbstractWords $\downarrow$,0.31,0.42,0.44,0.4,0.34
+Concreteness,3,\OQ{}-\Bing{}-\SERP{},\OQ{}-\Bing{}-\SERP{} *,11,AbstractWords $\downarrow$,0.54,0.54,0.55,0.46,0.47
+Concreteness,4,\OQ{}-\Bing{}-\RR{},\OQ{}-\Bing{}-\RR{} *,11,AbstractWords $\downarrow$,0.28,0.4,0.43,0.38,0.34
+Concreteness,5,\OQ{}-\GEM{}-\RESP{},\OQ{}-\GEM{}-\RESP{},11,AbstractWords $\downarrow$,0.44,0.48,0.51,0.44,0.49
+Concreteness,6,\OQ{}-\GPT{}-\RESP{},\OQ{}-\GPT{}-\RESP{},11,AbstractWords $\downarrow$,0.67,0.69,0.69,0.62,0.7
