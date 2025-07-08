@@ -32,7 +32,7 @@ Personal access tokens can be generated using the documentations linked below.
 
 ### Step 2: Generating IAS responses
 
-In the first code block in `Code/API_calls.ipynb`, assign the variables `target_og_query_file_path`, `target_og_query_file_path`, and `target_og_query_file_path` the names of the file containing the autistic user queries, rephrased autistic user queries, and control group queries respectively and then run all all the code blocks in `Code/API_calls.ipynb` one after the other. 
+In the first code block in `Code/API_calls.ipynb`, assign the variables `target_og_query_file_path`, `target_rephrased_query_file_path`, and `control_query_file_path` the names of the file containing the autistic user queries, rephrased autistic user queries, and control group queries respectively and then run all all the code blocks in `Code/API_calls.ipynb` one after the other. 
 
 After all code blocks have run successfully, the `Data/` folder should be populated with excel files corresponding to the responses elicited from Google, Bing, ChatGPT, and Gemini, respectively.
 
