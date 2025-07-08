@@ -10,7 +10,7 @@ tbd
 ## Reproducibility Code
 
 ## User Queries
-Refer to `Data/target_queries.csv` for an example file for user queries. The csv file contains the following coloumns:
+Refer to `Data/query_example_file.xlsx` for an example file for user queries. The excel file contains the following coloumns:
 
 1. Query: The query that captures an information need of a user
 2. ngram: The ngram length of the query
@@ -34,7 +34,7 @@ Personal access tokens can be generated using the documentations linked below.
 
 In the first code block in `Code/API_calls.ipynb`, assign the variables `target_og_query_file_path`, `target_og_query_file_path`, and `target_og_query_file_path` the names of the file containing the autistic user queries, rephrased autistic user queries, and control group queries respectively and then run all all the code blocks in `Code/API_calls.ipynb` one after the other. 
 
-After all code blocks have run successfully, the `Data/` folder should be populated with CSV files corresponding to the responses elicited from Google, Bing, ChatGPT, and Gemini, respectively.
+After all code blocks have run successfully, the `Data/` folder should be populated with excel files corresponding to the responses elicited from Google, Bing, ChatGPT, and Gemini, respectively.
 
 ## Accessibility analysis
 To create the accessibility profiles of each IAS run the code blocks in `Code/accessibility_analysis.ipynb` in order. To compare the generated accessibility profiles run the code blocks in `Code/stas_computation.ipynb` in order.
