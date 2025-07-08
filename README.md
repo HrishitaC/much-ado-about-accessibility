@@ -37,4 +37,4 @@ In the first code block in `Code/API_calls.ipynb`, assign the variables `target_
 After all code blocks have run successfully, the `Data/` folder should be populated with CSV files corresponding to the responses elicited from Google, Bing, ChatGPT, and Gemini, respectively.
 
 ## Accessibility analysis
-To create the accessibility profiles of each IAS run the code blocks in `Code/accessibility_analysis.ipynb` in order. To compare the generated accessibility profiles run the code blocks in `Code/visualisation.ipynb` in order.
+To create the accessibility profiles of each IAS run the code blocks in `Code/accessibility_analysis.ipynb` in order. To compare the generated accessibility profiles run the code blocks in `Code/stas_computation.ipynb` in order.
