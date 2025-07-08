@@ -1,0 +1,23 @@
+{
+    "bing": {
+        "key": ""
+        "SERP_endpoint": "https://api.bing.microsoft.com/v7.0/search",
+        "location": "global"
+    },
+
+    "google":{
+        "api_key": "",
+        "search_engine_id": "",
+        "SERP_endpoint": "https://www.googleapis.com/customsearch/v1"
+    },
+    "gemini":{
+        "projectID": "",
+        "location": "",
+        "clientID": "",
+        "clientSecret": "",
+        "access_token": ""
+    },
+    "chatgpt":{
+        "api_key": "",
+    }
+}
