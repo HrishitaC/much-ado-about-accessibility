@@ -12,7 +12,7 @@ tbd
 ## User Queries
 Refer to `Data/query_example_file.xlsx` for an example file for user queries. The excel file contains the following coloumns:
 
-1. Query: The query that captures an information need of a user
+1. query: The query that captures an information need of a user
 2. ngram: The ngram length of the query
 3. domain_relevant: TRUE if query related to ASD, FALSE otherwise (**Note:** this column is applicable only for files containing autistic users' inquiries.)
 
