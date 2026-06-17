@@ -9,8 +9,7 @@ Please use the following reference when citing this repository in your work:
 ```
 @article{Chakrabarti_Pera_2026,
     author={Chakrabarti, Hrishita and Pera, Maria Soledad},
-    title={Much Ado about Accessibility: An Exploration of Online
-Content Accessibility from an Autism-Informed Perspective},
+    title={Much Ado about Accessibility: An Exploration of Online Content Accessibility from an Autism-Informed Perspective},
     journal={Information Retrieval Research},
     volume={2},
     number={1},
